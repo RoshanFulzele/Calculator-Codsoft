@@ -1,7 +1,7 @@
 # Calculator-Codsoft
 # 🔢 Calculator Web Application
 
-This is *Task 1* of the @CodSoft Internship, where I developed a simple yet elegant Calculator Web Application using HTML, CSS, and JavaScript.
+This is *Task 1* of the *CodSoft Internship, where I developed a simple yet elegant **Calculator Web Application* using *HTML, **CSS, and **JavaScript*.
 
 ---
 
@@ -23,7 +23,7 @@ This project demonstrates my ability to build responsive and interactive web app
 
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (ES6)
 
 ---
 
@@ -42,3 +42,7 @@ This project demonstrates my ability to build responsive and interactive web app
 ├── cal.html       # Main HTML file
 ├── cal.css        # CSS styles for layout and design
 └── cal.js        # JavaScript logic for calculator operations
+
+
+
+
