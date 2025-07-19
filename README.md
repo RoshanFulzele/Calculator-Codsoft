@@ -39,6 +39,6 @@ This project demonstrates my ability to build responsive and interactive web app
 ## 📂 Project Structure
 
 ```plaintext
-├── index.html       # Main HTML file
-├── style.css        # CSS styles for layout and design
-└── script.js        # JavaScript logic for calculator operations
+├── cal.html       # Main HTML file
+├── cal.css        # CSS styles for layout and design
+└── cal.js        # JavaScript logic for calculator operations
